@@ -20,10 +20,10 @@ I will simulate the roles of two contributors
 - Initialize this "repository with README file"
 - Create a repo
 
-![alt text](img/1_repo.png)
- 
+![1_repo](https://github.com/user-attachments/assets/9b48ae88-376d-43f3-87c6-9ed8848b19c8)
+
  ## Step 2:
- **Cloning(downlod) The Repo**: 
+ **Cloning(download) The Repo**: 
  - Click on Code 
  - Select SSH (if you've configured your SSH to Github, if not use HTTPS)
  - Copy the link by clicking on the copy icon
