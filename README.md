@@ -28,33 +28,38 @@ I will simulate the roles of two contributors
  - Select SSH (if you've configured your SSH to Github, if not use HTTPS)
  - Copy the link by clicking on the copy icon
 
-![alt text](img/2_copycode.png)
+![2_copycode](https://github.com/user-attachments/assets/2b8ee6f3-557e-4f05-81bb-72fcd632094a)
 
  ## Step 3:
  **Cloning(downlod) The Repo on your local Repo**: 
  - Open your gitbash 
  - Run  `git clone "paste the link copied"`
 
-![alt text](img/2_gitclone.png)
+![2_gitclone](https://github.com/user-attachments/assets/5106d613-3bf9-4326-929c-88ad56aa194e)
+
 
 ## Step 4:
  **Open Vscode from your terminal**: 
  - Open your gitbash 
  - Run  `code .`
 
-![alt text](img/3_vscode.png)
+![3_vscode](https://github.com/user-attachments/assets/97e6d3db-1115-4719-bef1-21c4091a425e)
+
 
 ## Step 5:
  **Select the directory created**: 
 
-![alt text](img/3_vscode1.png)
+![3_vscode1](https://github.com/user-attachments/assets/eeb001ba-110e-4e39-a275-49c80c05b9ed)
+
 
 ## Step 6:
  **Create The HTML files**: 
 - Create html files and add your codes
 
-![alt text](img/3_vscode2.png)
-![alt text](img/image.png)
+![3_vscode2](https://github.com/user-attachments/assets/4e502a4b-c373-4816-adbd-13ba5b9f8ba5)
+
+![image](https://github.com/user-attachments/assets/4840c664-8710-4543-b55c-4782c89a69a4)
+
 
 # Morgan's Contribution 
 
@@ -63,13 +68,15 @@ I will simulate the roles of two contributors
  - `cd` into the directory 
  - `ls` to see the what is inside 
 
- ![alt text](img/4_cdintomain.png)
+ ![4_cdintomain](https://github.com/user-attachments/assets/8bb4d094-362a-483f-b64c-277d80216cf6)
+
 
 ## Step 8:
  **Create a Branch**: 
  - Run `git checkout -b New_features/Add_book_review` to create and switch into a new branch
  
-![alt text](img/5_cdintomain.png)
+![5_cdintomain](https://github.com/user-attachments/assets/ec4cb63a-0527-44c2-a8d5-3b15869decdc)
+
 
 ## Step 9:
  **Create a New HTML File**: 
@@ -77,14 +84,16 @@ I will simulate the roles of two contributors
  - You can also create it on Vscode and make your edit anyone you wish.
  - `ls` to view the created file
 
-![alt text](img/6_cdintomain.png)
+![6_cdintomain](https://github.com/user-attachments/assets/a1529c91-4a5c-4848-8aef-ddaa742d0217)
+
 
 ## Step 10:
  **Edit the New HTML File**: 
  - Run `vim touch book_review.html` to edit 
  - You can also  make your edit anyone you wish.
 
-![alt text](img/7_cdintomain.png)
+![7_cdintomain](https://github.com/user-attachments/assets/01fbbd3f-e6bb-4b47-a274-b76591118440)
+
 
 ## Step 11:
  **Stage the Edited files**: 
@@ -93,13 +102,15 @@ I will simulate the roles of two contributors
  - Run `git add "name of the file"` to add the files 
  - Run `git status` to check again, if it's green means it has been succesfully staged 
 
-![alt text](img/8_cdintomain.png)
+![8_cdintomain](https://github.com/user-attachments/assets/9e0adbdd-cbc3-4f41-bb04-6e19c361a62e)
+
 
 ## Step 12:
  **Commit files**: 
  - Run `git commit -m "message you want to pass"` 
 
-![alt text](img/9_cdintomain.png)
+![9_cdintomain](https://github.com/user-attachments/assets/e2036f33-69a2-4ed2-8940-d2835b135b9e)
+
 
 ## Step 13:
  **Push File**: 
@@ -107,7 +118,8 @@ I will simulate the roles of two contributors
  - You might get an error, don't panic 
  - Copy the suggested command and run it again 
 
-![alt text](img/10_cdintomain.png)
+![10_cdintomain](https://github.com/user-attachments/assets/6d65da55-2da6-4cf6-8f0c-4086dec6ad77)
+
 
 ## Step 14:
  **Compare & Pull Request**: 
@@ -121,7 +133,10 @@ I will simulate the roles of two contributors
  - Click on pull request
  - You can decide to Edit the Commit message and add descriptions 
 
-![alt text](img/12_cdintomain.png)
+![11_cdintomain](https://github.com/user-attachments/assets/112465bb-b0b5-449b-aa40-eaed14a1b22b)
+
+![12_cdintomain](https://github.com/user-attachments/assets/9a7900c1-5092-4ba4-9295-314e1ef5814a)
+
 
 # Jamie's Contribution
 ## Apply same process as Morgan's by starting from 
